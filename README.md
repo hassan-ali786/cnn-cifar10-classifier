@@ -1,7 +1,7 @@
 
-📊 CNN Image Classification using CIFAR-10
+ CNN Image Classification using CIFAR-10
 
-📌 Project Overview
+ Project Overview
 
 This project is my Final Project for the Data Science Course, where I implemented a Convolutional Neural Network (CNN) to perform image classification using the CIFAR-10 dataset.
 The goal was to understand how deep learning models learn visual features and classify images into multiple categories.
@@ -9,7 +9,7 @@ The goal was to understand how deep learning models learn visual features and cl
 
 ---
 
-🧠 About the Dataset (CIFAR-10)
+ About the Dataset (CIFAR-10)
 
 The CIFAR-10 dataset consists of 60,000 color images (32×32 pixels) divided into 10 classes:
 
@@ -39,7 +39,7 @@ Some images are low-resolution and visually challenging, making the classificati
 
 ---
 
-⚙️ Model Used
+ Model Used
 
 Convolutional Neural Network (CNN)
 
@@ -60,7 +60,7 @@ Softmax output layer
 
 ---
 
-🚧 Challenges Faced
+ Challenges Faced
 
 The model was trained using CPU instead of GPU, which made training slow and time-consuming
 
@@ -70,7 +70,7 @@ Despite limited computational resources, the model achieved ~70% accuracy, which
 
 ---
 
-📈 Results
+ Results
 
 Accuracy: ~70%
 
@@ -82,7 +82,7 @@ Demonstrates how neural networks are “smart” by learning from data and impro
 
 ---
 
-🧪 Technologies Used
+ Technologies Used
 
 Python
 
@@ -96,7 +96,7 @@ CIFAR-10 Dataset
 
 ---
 
-🎯 Learning Outcomes
+ Learning Outcomes
 
 Practical understanding of CNN architecture
 
@@ -110,24 +110,10 @@ Improved knowledge of model training and evaluation
 
 ---
 
-🙏 Acknowledgment
-
-Special thanks to Mam Muskan Chawla and Mam Koyal Punjabi for their guidance, mentorship, and continuous support throughout this project.
-
-
----
-
-🚀 Future Work
-
-Train the model using GPU for better performance
-
-Improve accuracy with data augmentation
-
-Experiment with deeper CNN architectures
 
 
 
----
+
 
 📬 Contact
 
